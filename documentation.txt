@@ -1,0 +1,9 @@
+ - La galerie contient 4 sections pour filtrer les images
+
+ - La section Tout affiche toute les images de la galerie
+
+ - La section PAIN affiche uniquement les images pour les pains
+
+ - La section PATISSERIE filtre les images pour PATISSERIE
+
+ - La section VINOISERIE affiche les images pout la vinoiserie 
